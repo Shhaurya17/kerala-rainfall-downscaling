@@ -1,0 +1,18 @@
+# ---- data (not distributed; see "Getting the data" in README.md) ----
+# The raw CHIRPS archive is ~33 GB of public files from UCSB CHC.
+Downscaling/chirps/
+# Derived products, rebuilt by notebooks 01 step 1 and step 2.
+Downscaling/*.nc
+Downscaling/paired_data.npz
+
+# ---- python / jupyter ----
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# ---- os ----
+.DS_Store
+Thumbs.db

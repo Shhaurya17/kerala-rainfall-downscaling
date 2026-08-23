@@ -1,0 +1,9 @@
+torch==2.13.0
+numpy==2.5.1
+xarray==2026.7.0
+rioxarray==0.23.0
+rasterio==1.5.1
+geopandas==1.1.4
+dask==2026.7.1
+netCDF4==1.7.4
+matplotlib==3.11.1
