@@ -187,6 +187,4 @@ Each is flagged in a markdown cell next to the code it affects.
 
 - `Downscaling/chirps/` is 33GB of raw source data, kept as the archival copy
   `chirps_1996_2025_clipped.nc` was built from.
-- Earlier work explored downscaling from ERA5 reanalysis and comparing against IMD
-  gridded rainfall; that work and those data sources have been removed — this
-  project's scope is CHIRPS 0.25°→0.05° only.
+
